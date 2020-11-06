@@ -1,0 +1,7 @@
+BODY{width:100%;height:100%;}
+#contenedor{margin:auto;width:1050px;height:2300px;}
+#contenedor #encab{width:100%;height:344px;background-image:url('../img/ENCABE.png');}
+#contenedor #menu{width:100%;height:65px;}
+#contenedor #mitad{width:100%;height:2980px;}
+#contenedor #final{width:100%;height:130px;background-color: #8191A7;}
+
